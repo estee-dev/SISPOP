@@ -34,12 +34,12 @@ $(document).ready(function(){
     });
 
     // typing text animation script
-    var typed = new Typed(".typing", {
-        strings: ["Blockchain based smart contracts", "Smart User experince and interface designs", "Mobile applications"],
-        typeSpeed: 25,
-        backSpeed: 10,
-        loop: true
-    });
+    // var typed = new Typed(".typing", {
+    //     strings: ["Blockchain based smart contracts", "Smart User experince and interface designs", "Mobile applications"],
+    //     typeSpeed: 25,
+    //     backSpeed: 10,
+    //     loop: true
+    // });
 
     var typed = new Typed(".typing-2", {
         strings: ["Blockchain based smart contracts", "Smart User experince and interface designs", "Mobile applications"],
