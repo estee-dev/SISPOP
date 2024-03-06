@@ -311,20 +311,23 @@ section .title::after{
 /* skills section styling */
 
 .skills .title::after{
-    content: "what i know";
+    content: "Statements";
+    color: #144e25;
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
 }
 .skills .skills-content .left .text{
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 600;
     margin-bottom: 10px;
+    color: #144e25;
 }
 .skills .skills-content .left p{
     text-align: justify;
+    color: #144e25;
 }
-.skills .skills-content .left a{
+/* .skills .skills-content .left a{
     display: inline-block;
     background: crimson;
     color: #fff;
@@ -339,7 +342,7 @@ section .title::after{
 .skills .skills-content .left a:hover{
     color: crimson;
     background: none;
-}
+} */
 .skills .skills-content .right .bars{
     margin-bottom: 15px;
 }
