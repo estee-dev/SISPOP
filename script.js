@@ -43,7 +43,7 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing-2", {
         strings: ["Blockchain based smart contracts", "Smart User experince and interface designs", "Mobile applications"],
-        typeSpeed: 25,
+        typeSpeed: 15,
         backSpeed: 10,
         loop: true
     });
